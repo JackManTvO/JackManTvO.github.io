@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: To be finished
+description: 追求「有趣、求知、自强」
 keywords: 刘茂密, Jack Liu
 comments: true
 menu: 关于
