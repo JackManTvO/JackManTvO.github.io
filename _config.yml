@@ -5,10 +5,10 @@ baseurl:
 url: https://jackmantvo.github.io
 date_format: "ordinal"
 title: 刘茂密
-subtitle: "追求「有趣、求知、自强」"
+subtitle: "Here am I"
 description: "刘茂密的个人博客"
 keywords: 刘茂密, JackManTvO
-timezone: Asia/Shanghai
+#timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -31,16 +31,19 @@ navs:
     label: 首页
 
   -
+    href: /open-source/
+    label: 开源
+
+  -
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
-
   -
-    href: /wiki/
-    label: 维基
+    href: /archives/
+    label: 归档
+  -
+    href: /tool/
+    label: 工具
 
   -
     href: /links/

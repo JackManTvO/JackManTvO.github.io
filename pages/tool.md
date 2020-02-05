@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Wiki
+title: Tool
 description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+keywords: 工具, tool
 comments: false
-menu: 维基
-permalink: /wiki/
+menu: 工具
+permalink: /tool/
 ---
 
 > 记多少命令和快捷键会让脑袋爆炸呢？
