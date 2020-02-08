@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archives
 title: Archives
 description: 按年份归档
 keywords: 归档
@@ -7,7 +7,6 @@ comments: false
 menu: 归档
 permalink: /archives/
 ---
-
 <section class="container posts-content">
 {% assign count = 1 %}
 {% for post in site.posts reversed %}
