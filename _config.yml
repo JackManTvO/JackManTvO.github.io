@@ -106,7 +106,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: JackManTvO
-    repo: jackmantvo.github.io
+    repo: blog-comments
     clientID: ff88f1d1a46901842b1e
     clientSecret: 427d1a3f529661b1a07a1c4f3fa83be231168afc
 # 在使用其它评论组件时可点击显示 Disqus
